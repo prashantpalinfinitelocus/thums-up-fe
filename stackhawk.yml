@@ -1,0 +1,11 @@
+# StackHawk DAST Scan Configuration
+# Update this file with your application details
+
+app:
+  applicationId: YOUR_APPLICATION_ID  # Replace with your StackHawk Application ID
+  env: Development
+  host: http://localhost:3000  # Update with your application host
+
+# Additional configuration options
+# See: https://docs.stackhawk.com/hawk/cli/configuration
+
