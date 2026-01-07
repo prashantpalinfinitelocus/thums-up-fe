@@ -2,7 +2,7 @@
 # Update this file with your application details
 
 app:
-  applicationId: YOUR_APPLICATION_ID  # Replace with your StackHawk Application ID
+  applicationId: 48441821-9fed-45c6-a88c-118908749738
   env: Development
   host: http://localhost:3000  # Update with your application host
 
